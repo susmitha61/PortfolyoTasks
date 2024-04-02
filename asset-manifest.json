@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/susmitha61/PortfolyoTasks.git/static/css/main.23807429.css",
-    "main.js": "/susmitha61/PortfolyoTasks.git/static/js/main.18b37369.js",
-    "static/media/bannerImg.png": "/susmitha61/PortfolyoTasks.git/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
-    "static/media/contactImg.png": "/susmitha61/PortfolyoTasks.git/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/testimonialOne.png": "/susmitha61/PortfolyoTasks.git/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/susmitha61/PortfolyoTasks.git/static/media/projectThree.47442baa3158613330ab.jpeg",
-    "static/media/testimonialTwo.png": "/susmitha61/PortfolyoTasks.git/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/susmitha61/PortfolyoTasks.git/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
-    "index.html": "/susmitha61/PortfolyoTasks.git/index.html",
-    "main.23807429.css.map": "/susmitha61/PortfolyoTasks.git/static/css/main.23807429.css.map",
-    "main.18b37369.js.map": "/susmitha61/PortfolyoTasks.git/static/js/main.18b37369.js.map"
+    "main.css": "/PortfolyoTasks.git/static/css/main.23807429.css",
+    "main.js": "/PortfolyoTasks.git/static/js/main.33ac9936.js",
+    "static/media/bannerImg.png": "/PortfolyoTasks.git/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/contactImg.png": "/PortfolyoTasks.git/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/PortfolyoTasks.git/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/PortfolyoTasks.git/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/PortfolyoTasks.git/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/PortfolyoTasks.git/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/PortfolyoTasks.git/index.html",
+    "main.23807429.css.map": "/PortfolyoTasks.git/static/css/main.23807429.css.map",
+    "main.33ac9936.js.map": "/PortfolyoTasks.git/static/js/main.33ac9936.js.map"
   },
   "entrypoints": [
     "static/css/main.23807429.css",
-    "static/js/main.18b37369.js"
+    "static/js/main.33ac9936.js"
   ]
 }
